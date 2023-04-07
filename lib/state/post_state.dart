@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:rivrpod_api/services/dio_get_service.dart';
-
 import '../models/model.dart';
 
 final postProvider =
